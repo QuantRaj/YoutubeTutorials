@@ -1,3 +1,4 @@
+## fetch live stock price and send SMS when a threshold value is reached
 import sys
 import requests
 from bs4 import BeautifulSoup

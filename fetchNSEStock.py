@@ -1,3 +1,5 @@
+## (C) 2019 Zafrul Umar
+## fetch live stock price and store in CSV file
 import sys
 import requests
 from bs4 import BeautifulSoup
